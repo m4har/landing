@@ -90,7 +90,7 @@ export default function Portfolio() {
         >
           <Meteors number={30} />
           <div className="flex-1 space-y-4 ">
-            <h2 className="text-4xl font-bold">Hi, I'm Mahardicka Nurachman</h2>
+            <h2 className="text-4xl font-bold">{`Hi, I'm Mahardicka Nurachman`}</h2>
             <p className="text-xl text-muted-foreground">
               A passionate Full Stack Developer with a love for creating
               innovative web solutions.
