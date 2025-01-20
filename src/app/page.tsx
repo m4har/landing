@@ -117,7 +117,7 @@ export default function Portfolio() {
             </div>
           </div>
           <div className="flex-1 flex justify-center">
-            <img
+            <Image
               src="https://media.licdn.com/dms/image/v2/D5603AQGK41uvstlYqw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1724811325940?e=1743033600&v=beta&t=dmBYL-Eypvo5vkcnP2CY4_kEFLeBQghlZQM2JW3Lsnc"
               alt="Me"
               width={300}
